@@ -7,3 +7,6 @@
 *.bmp binary
 *.ico binary
 *.rc binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
